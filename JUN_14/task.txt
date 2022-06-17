@@ -1,0 +1,8 @@
+Task Update:
+
+     # Given an input string s, reverse the order of the words. A word is defined as a sequence of non-space characters. The words in s will be separated by at least one space. Return a string of the words in reverse order concatenated by a single space. Note that s may contain leading or trailing spaces or multiple spaces between two words. The returned string should only have a single space separating the words. Do not include any extra spaces.
+     # Given an integer array nums, find a contiguous non-empty subarray within the array that has the largest product, and return the product. The test cases are generated so that the answer will fit in a 32-bit integer. A subarray is a contiguous subsequence of the array.
+     # Design your implementation of the linked list. You can choose to use a singly. A node in a singly linked list should have two attributes: data and next. data is the value of the current node, and next is a pointer/reference to the next node. If you want to use the doubly linked list, you will need one more attribute prev to indicate the previous node in the linked list. Assume all nodes in the linked list are 0-indexed.
+     # create a singly linked list and add a new node at the end of the list. To accomplish this task, add a new node after the tail of the list such that tail's next will point to the newly added node. Then, make this new node as the new tail of the list.
+
+ 
